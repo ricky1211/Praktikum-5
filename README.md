@@ -2,6 +2,10 @@
 
 
 ### Tugas Bahasa Pemrograman
+Nama : Ricky Alfian Saputra
+NIM  : 312210279
+Kelas: TI.22.A4
+Prodi: Teknik Informatika
 
 ### Ini adalah Tampilan Program
 
@@ -17,11 +21,11 @@
 
 ![](/ScreenShot/Screenshot%20(19).png)
 Terdapat pilihan Tambah,Ubah,Hapus,Lihat,Cari dan keluar.
--Tambah Untuk mengisi data
--Ubah Untuk Mengubah data 
--Lihat untuk melihat isi data
--Cari untuk mencari data
--Keluar Untuk mengahkhiri Program
+Tambah Untuk mengisi data
+Ubah Untuk Mengubah data 
+Lihat untuk melihat isi data
+Cari untuk mencari data
+Keluar Untuk mengahkhiri Program
 
 ### 1. Tampilan Jika menambah data
 
